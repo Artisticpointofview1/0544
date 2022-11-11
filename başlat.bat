@@ -1,5 +1,5 @@
 echo off
-title 4Debug Moderasyon
+title Majestic Moderasyon
 cls
 :a
 node server.js
