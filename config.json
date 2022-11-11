@@ -1,0 +1,10 @@
+{
+
+    "token": "BOT_TOKEN",
+    "prefix": "!",
+    "logchannel": "LOG KANALI ID",
+    "gelengiden": "GELEN GİDEN KANALI ID",
+    "onerikanali": "ÖNERİ KANALI ID",
+    "levelkanali": "LEVEL KANALI ID"
+
+}
