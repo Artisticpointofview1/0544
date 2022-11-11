@@ -4,9 +4,5 @@
 
 
 
-x
 
-
-**İLETİŞİM**
-> Benimle iletişim kurmak iç<br>
 
